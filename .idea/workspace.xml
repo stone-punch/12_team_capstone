@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc5fb06d-637c-4ac2-9dda-3d15bbddfe19" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/12_team_capstone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/main_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/12_team_capstone.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/12_team_capstone.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system_1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/system_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/system_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/system_2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +64,7 @@
       <updated>1649106387948</updated>
       <workItem from="1649106389940" duration="4569000" />
       <workItem from="1649128464327" duration="10233000" />
+      <workItem from="1649140134466" duration="157000" />
     </task>
     <servers />
   </component>

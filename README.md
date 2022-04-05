@@ -1,2 +1,11 @@
 # 12_team_capstone
-# https://stone-punch.github.io/12_team_capstone/main
+
+## FIXER 자세교정 웹프로그램
+
+###역활분담
+```
+홍기준(팀장) : 프론트엔드
+진승호 : 프론트엔드
+안상민 : 백엔드
+게렐마 설렁거 : 모델수집, UI디자인
+```
